@@ -1,0 +1,7 @@
+C:\Users\nelly\OneDrive\Documents\2021 programming\ConsoleApp assignment 3\ConsoleApp assignment 3\bin\Debug\ConsoleApp assignment 3.exe.config
+C:\Users\nelly\OneDrive\Documents\2021 programming\ConsoleApp assignment 3\ConsoleApp assignment 3\bin\Debug\ConsoleApp assignment 3.exe
+C:\Users\nelly\OneDrive\Documents\2021 programming\ConsoleApp assignment 3\ConsoleApp assignment 3\bin\Debug\ConsoleApp assignment 3.pdb
+C:\Users\nelly\OneDrive\Documents\2021 programming\ConsoleApp assignment 3\ConsoleApp assignment 3\obj\Debug\ConsoleApp assignment 3.csproj.AssemblyReference.cache
+C:\Users\nelly\OneDrive\Documents\2021 programming\ConsoleApp assignment 3\ConsoleApp assignment 3\obj\Debug\ConsoleApp assignment 3.csproj.CoreCompileInputs.cache
+C:\Users\nelly\OneDrive\Documents\2021 programming\ConsoleApp assignment 3\ConsoleApp assignment 3\obj\Debug\ConsoleApp assignment 3.exe
+C:\Users\nelly\OneDrive\Documents\2021 programming\ConsoleApp assignment 3\ConsoleApp assignment 3\obj\Debug\ConsoleApp assignment 3.pdb
